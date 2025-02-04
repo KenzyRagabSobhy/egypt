@@ -1,5 +1,5 @@
-import pc5 from '../../../public/assets/img/siwa.jpg'
-import pc6 from '../../../public/assets/img/cairo.jpg'
+import pc5 from '../../assets/img/siwa.jpg'
+import pc6 from '../../assets/img/cairo.jpg'
 import './Containimg.css'
 
 const Containimg = () => {

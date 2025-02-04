@@ -1,6 +1,6 @@
 import './NavBar.css'
-import Menu from '../../../public/assets/img/Menu.svg'
-import X from '../../../public/assets/img/X.svg'
+import Menu from '../../assets/img/Menu.svg'
+import X from '../../assets/img/X.svg'
 import { useState } from 'react'
 import { Link, NavLink } from 'react-router-dom'
 

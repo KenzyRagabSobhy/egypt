@@ -4,8 +4,8 @@ import BestServices from "../BestServices/BestServices"
 import Containimg from "../Containimg/Containimg"
 import Trending from "../Trending/Trending"
 
-import logo from '../../../public/assets/img/logo.png'
-import bc from '../../../public/assets/img/home.jpg'
+import logo from '../../assets/img/logo.png'
+import bc from '../../assets/img/home.jpg'
 
 const HomePage = () => {
   return (

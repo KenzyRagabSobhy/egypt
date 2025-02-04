@@ -1,7 +1,7 @@
-import pc1 from '../../../public/assets/img/tour-guide 1.png'
-import pc2 from '../../../public/assets/img/travelling 1.png'
-import pc3 from '../../../public/assets/img/medical-team 1 (1).png'
-import pc4 from '../../../public//assets/img/hands 1 (1).png'
+import pc1 from '../../assets/img/tour-guide 1.png'
+import pc2 from '../../assets/img/travelling 1.png'
+import pc3 from '../../assets/img/medical-team 1 (1).png'
+import pc4 from '../../assets/img/hands 1 (1).png'
 import Title from '../Title/Title'
 import './Best Services.css'
 

@@ -1,9 +1,9 @@
-import travel from'../../../public/assets/img/travel1.png'
-import linkedin from '../../../public/assets/img/052-linkedin.png'
-import mass from'../../../public/assets/img/025-messenger.svg'
-import tweet from'../../../public/assets/img/096-twitter.png'
-import twoo from'../../../public/assets/img/097-twoo.svg'
-import bcf from '../../../public/assets/img/Footerimg.png'
+import travel from'../../assets/img/travel1.png'
+import linkedin from '../../assets/img/052-linkedin.png'
+import mass from'../../assets/img/025-messenger.svg'
+import tweet from'../../assets/img/096-twitter.png'
+import twoo from'../../assets/img/097-twoo.svg'
+import bcf from '../../assets/img/Footerimg.png'
 import './Footer.css'
 
 const Footer = () => {

@@ -1,10 +1,10 @@
-import trend1 from '../../../public/assets/img/pr.jpeg'
-import trend2 from '../../../public/assets/img/si.jpeg'
-import trend3 from '../../../public/assets/img/nile.jpg'
-import Ellipse1 from '../../../public/assets/img/Ellipse3.png'
-import calender from '../../../public/assets/img/calender.svg'
-import user from '../../../public/assets/img/user-avatar.svg'
-import stars from '../../../public/assets/img/stars.png'
+import trend1 from '../../assets/img/pr.jpeg'
+import trend2 from '../../assets/img/si.jpeg'
+import trend3 from '../../assets/img/nile.jpg'
+import Ellipse1 from '../../assets/img/Ellipse3.png'
+import calender from '../../assets/img/calender.svg'
+import user from '../../assets/img/user-avatar.svg'
+import stars from '../../assets/img/stars.png'
 import './TrendingCard.css'
 
 const TrendingCard = () => {

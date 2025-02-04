@@ -1,5 +1,5 @@
 import './Girl.css'
-import red from '../../../public/assets/img/red.jpg'
+import red from '../../assets/img/red.jpg'
 const Girl = () => {
   return (
     <div className="Girl" style={{backgroundImage:`url(${red})`}}>

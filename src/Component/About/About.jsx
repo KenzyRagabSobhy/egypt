@@ -1,12 +1,12 @@
 import NavBar from "../NavBar/NavBar"
 import Hero from "../Hero/Hero"
-import logo from '../../../public/assets/img/logo.png'
-import bc from '../../../public/assets/img/abou.jpg'
-import About1 from '../../../public/assets/img/1-about.png'
+import logo from '../../assets/img/logo.png'
+import bc from '../../assets/img/abou.jpg'
+import About1 from '../../assets/img/1-about.png'
 import './About.css'
 import Promotion from "../Promotion/Promotion"
 import Girl from "../Girl/Girl"
-import About2 from '../../../public/assets/img/about-us-img-2_1.png'
+import About2 from '../../assets/img/about-us-img-2_1.png'
 const About = () => {
   return (
     <div>

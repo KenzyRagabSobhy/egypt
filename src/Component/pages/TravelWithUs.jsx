@@ -1,7 +1,7 @@
 import NavBar from "../NavBar/NavBar"
 import Hero from "../Hero/Hero"
-import logo from '../../../public/assets/img/logo.png'
-import bc from '../../../public/assets/img/se.jpg'
+import logo from '../../assets/img/logo.png'
+import bc from '../../assets/img/se.jpg'
 import CardTravel from "../CardTravel/CardTravel"
 
 const TravelWithUs = () => {

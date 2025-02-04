@@ -1,10 +1,10 @@
-import us1 from '../../../public/assets/img/hotel1.jpg'
-import us2 from '../../../public/assets/img/hotel2.jpg'
-import us3 from '../../../public/assets/img/hotel3.jpg'
-import us4 from '../../../public/assets/img/hotel4.jpg'
-import us5 from '../../../public/assets/img/hotel5.jpg'
-import us6 from '../../../public/assets/img/hotel6.jpg'
-import star1 from '../../../public/assets/img/star1.svg'
+import us1 from '../../assets/img/hotel1.jpg'
+import us2 from '../../assets/img/hotel2.jpg'
+import us3 from '../../assets/img/hotel3.jpg'
+import us4 from '../../assets/img/hotel4.jpg'
+import us5 from '../../assets/img/hotel5.jpg'
+import us6 from '../../assets/img/hotel6.jpg'
+import star1 from '../../assets/img/star1.svg'
 import './CardTravel.css'
 const CardTravel = () => {
     const CardTravel=[
